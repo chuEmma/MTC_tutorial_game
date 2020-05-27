@@ -289,8 +289,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a94f17964fcbf74b82d01a202fd6430, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 1988986525}
-  smoothing: 0.1
+  followTarget: {fileID: 1988986520}
+  moveSpeed: 5
 --- !u!1 &535168595
 GameObject:
   m_ObjectHideFlags: 0
